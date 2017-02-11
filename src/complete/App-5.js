@@ -40,7 +40,7 @@ const App = () => (
           <h3>Atlantic Ocean — Again!</h3>
           <p>
             The Atlantic Ocean covers approximately 29% of
-            the world's water surface area.
+            the worlds water surface area.
           </p>
         </div>
       )} />
