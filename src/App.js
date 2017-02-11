@@ -6,6 +6,7 @@ import Link from 'react-router/Link';
 import Redirect from 'react-router/Redirect';
 import Miss from 'react-router/Miss';
 
+//Stateless Components
 const Atlantic = () => (
   <div>
   <h3>Atlantic Ocean</h3>
